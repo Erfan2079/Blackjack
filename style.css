@@ -3,7 +3,8 @@ body {
     /* background-image: url("images/table.png"); */
     background-size: cover;
     font-weight: bold;
-    background-color: #016F32;
+    background: rgb(0,255,250);
+     background: radial-gradient(circle, rgba(0,255,250,1) 0%, rgba(51,138,144,1) 54%);
     color: white;
     text-align: center;
 }
